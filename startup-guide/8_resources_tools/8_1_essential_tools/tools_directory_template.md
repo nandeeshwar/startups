@@ -2,32 +2,38 @@
 
 ## Project Management
 ### Task Management
-- [ ] Tool: [Name]
-  - Purpose: [Description]
+- [x] Tool: Jira
+  - Purpose: Agile project management and issue tracking
   - Key Features:
-    - [ ] Feature 1
-    - [ ] Feature 2
-  - Pricing: [Free/Paid]
-  - Best For: [Use case]
+    - [x] Scrum and Kanban boards
+    - [x] Custom workflows
+    - [x] Sprint planning
+    - [x] Issue tracking
+  - Pricing: Free for up to 10 users, Paid plans available
+  - Best For: Software development teams using Agile methodologies
 
 ### Team Collaboration
-- [ ] Tool: [Name]
-  - Purpose: [Description]
+- [x] Tool: Confluence
+  - Purpose: Team workspace and documentation
   - Key Features:
-    - [ ] Feature 1
-    - [ ] Feature 2
-  - Pricing: [Free/Paid]
-  - Best For: [Use case]
+    - [x] Wiki-style documentation
+    - [x] Team collaboration spaces
+    - [x] Integration with Jira
+    - [x] Knowledge base creation
+  - Pricing: Free for up to 10 users, Paid plans available
+  - Best For: Teams needing centralized documentation and knowledge sharing
 
 ## Development
 ### Version Control
-- [ ] Tool: [Name]
-  - Purpose: [Description]
+- [x] Tool: Git
+  - Purpose: Distributed version control system
   - Key Features:
-    - [ ] Feature 1
-    - [ ] Feature 2
-  - Pricing: [Free/Paid]
-  - Best For: [Use case]
+    - [x] Branch management
+    - [x] Distributed development
+    - [x] Code history tracking
+    - [x] Merge capabilities
+  - Pricing: Free and open source
+  - Best For: All software development teams
 
 ### Development Environment
 - [ ] Tool: [Name]
