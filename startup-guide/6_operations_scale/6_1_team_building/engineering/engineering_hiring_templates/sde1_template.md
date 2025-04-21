@@ -1,7 +1,7 @@
 # SDE-1 Hiring Template
 
 ## Role Overview
-SDE-1 (Software Development Engineer - Level 1) is an entry-level position for engineers with 0-2 years of experience. The focus is on learning, growth, and contributing to the team's success.
+SDE-1 (Software Development Engineer - Level 1) is an entry-level position for engineers with 0+ years of experience. The focus is on learning, growth, and contributing to the team's success.
 
 ## Key Responsibilities
 1. [ ] Write clean, maintainable code under guidance

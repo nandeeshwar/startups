@@ -1,7 +1,7 @@
 # SDE-2 Hiring Template
 
 ## Role Overview
-SDE-2 (Software Development Engineer - Level 2) is a mid-level position for engineers with 2-5 years of experience. The focus is on technical excellence, project ownership, and mentoring junior engineers.
+SDE-2 (Software Development Engineer - Level 2) is a mid-level position for engineers with 2+ years of experience. The focus is on technical excellence, project ownership, and mentoring junior engineers.
 
 ## Key Responsibilities
 1. [ ] Design and implement complex features
