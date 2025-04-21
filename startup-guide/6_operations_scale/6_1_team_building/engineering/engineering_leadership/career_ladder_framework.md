@@ -89,9 +89,10 @@ This framework outlines the career progression path for engineers from entry-lev
 - [ ] Innovation leadership
 - [ ] Business impact
 
-### Engineering Manager
+### Engineering Manager (Level 3)
 **Experience**: 5+ years (including 1+ years in technical leadership)
 **Focus**: People management and technical leadership
+**Note**: Engineering Manager is considered a lateral progression from SDE-3, focusing on people and delivery instead of deep technical implementation.
 
 #### Key Responsibilities
 1. [ ] Lead and mentor a team of software engineers
