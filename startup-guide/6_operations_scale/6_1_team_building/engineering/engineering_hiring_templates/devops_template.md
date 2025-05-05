@@ -98,4 +98,104 @@ DevOps Engineer is responsible for building, maintaining, and optimizing the inf
 - [ ] Security specialization
 - [ ] Performance optimization
 - [ ] Team leadership
-- [ ] Cross-functional collaboration 
+- [ ] Cross-functional collaboration
+
+## Sample DevOps Tasks and Scripts
+
+### Coding Assessment Round Tasks
+
+#### 1. Log Analysis and Monitoring
+Write a script (Python/Bash) to:
+- Parse logs and extract metrics
+- Set up alerts based on thresholds
+- Automate EC2 snapshot cleanup
+
+#### 2. Security Automation
+Develop scripts to:
+- Automate security group updates
+- Implement IAM role rotation
+- Set up automated vulnerability scanning
+- Configure WAF rules
+
+#### 3. Cost Optimization
+Create scripts to:
+- Monitor and optimize cloud costs
+- Implement auto-scaling based on cost metrics
+- Clean up unused resources
+- Generate cost reports
+
+### System Design Round Tasks
+
+#### 4. Infrastructure Automation
+Create a Terraform/CloudFormation template to:
+- Set up a highly available web application infrastructure
+- Implement auto-scaling groups
+- Configure load balancers and security groups
+- Set up monitoring and logging
+
+#### 5. CI/CD Pipeline
+Design and implement a CI/CD pipeline that:
+- Automates testing and deployment
+- Implements blue-green deployments
+- Includes security scanning
+- Manages environment-specific configurations
+
+#### 6. Container Orchestration
+Create Kubernetes manifests to:
+- Deploy a microservices architecture
+- Implement service discovery
+- Set up horizontal pod autoscaling
+- Configure persistent storage
+
+#### 7. Disaster Recovery
+Design and implement:
+- Automated backup solutions
+- Cross-region replication
+- Recovery testing automation
+- Failover procedures
+
+### Take-Home Assignment Tasks
+
+#### 8. Performance Monitoring
+Create a monitoring solution that:
+- Tracks application performance metrics
+- Monitors infrastructure health
+- Sets up custom dashboards
+- Implements automated alerting
+
+#### 9. Infrastructure Testing
+Develop infrastructure tests that:
+- Validate security configurations
+- Test high availability
+- Verify backup and recovery
+- Check compliance requirements
+
+#### 10. Documentation Automation
+Create tools to:
+- Generate infrastructure documentation
+- Track configuration changes
+- Maintain runbooks
+- Document deployment procedures
+
+### Task Evaluation Guidelines
+
+#### Coding Assessment Tasks
+- Code quality and best practices
+- Error handling and edge cases
+- Performance considerations
+- Documentation and comments
+- Testing approach
+
+#### System Design Tasks
+- Architecture decisions and trade-offs
+- Scalability considerations
+- Security implementation
+- Cost optimization
+- High availability design
+
+#### Take-Home Assignment Tasks
+- Project structure and organization
+- Implementation completeness
+- Documentation quality
+- Testing coverage
+- Production readiness 
