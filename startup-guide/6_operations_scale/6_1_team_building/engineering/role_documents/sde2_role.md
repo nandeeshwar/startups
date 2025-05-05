@@ -3,6 +3,8 @@
 ## Role Overview
 SDE-2 is a mid-level position for engineers with 2-4 years of experience. The focus is on technical ownership, mentoring, and driving technical decisions.
 
+> For detailed hiring requirements and interview process, refer to the [SDE-2 Hiring Template](../engineering_hiring_templates/sde2_template.md)
+
 ## Experience Requirements
 - 2-4 years of software engineering experience
 - Demonstrated technical leadership

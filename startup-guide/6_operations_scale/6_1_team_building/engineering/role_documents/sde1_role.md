@@ -3,6 +3,8 @@
 ## Role Overview
 SDE-1 is an entry-level position for engineers with 0-2 years of experience. The focus is on learning, growth, and contributing to the team's success.
 
+> For detailed hiring requirements and interview process, refer to the [SDE-1 Hiring Template](../engineering_hiring_templates/sde1_template.md)
+
 ## Experience Requirements
 - 0-2 years of software engineering experience
 - Strong fundamentals in computer science

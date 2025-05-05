@@ -4,13 +4,12 @@
 DevOps Engineer is responsible for building, maintaining, and optimizing the infrastructure and deployment pipelines. The focus is on automation, reliability, and scalability of the development and deployment processes.
 
 ## Key Responsibilities
-1. [ ] Design and implement CI/CD pipelines
-2. [ ] Manage cloud infrastructure
-3. [ ] Implement monitoring and logging solutions
-4. [ ] Ensure system security and compliance
-5. [ ] Optimize system performance
-6. [ ] Automate deployment processes
-7. [ ] Manage container orchestration
+1. [ ] Manage cloud infrastructure
+2. [ ] Implement monitoring and logging solutions
+3. [ ] Ensure system security and compliance
+4. [ ] Optimize system performance
+5. [ ] Automate deployment processes
+6. [ ] Manage container orchestration
 
 ## Technical Requirements
 
@@ -25,38 +24,47 @@ DevOps Engineer is responsible for building, maintaining, and optimizing the inf
 
 ### Nice-to-Have
 - [ ] Experience with microservices architecture
-- [ ] Knowledge of service mesh (Istio/Linkerd)
-- [ ] Experience with database administration
 - [ ] Understanding of security best practices
+- [ ] Experience with database administration
 - [ ] Experience with big data systems
-- [ ] Knowledge of machine learning infrastructure
-- [ ] Experience with chaos engineering
 
 ## Interview Process
 
-### 1. Initial Screening (45 mins)
+### 1. Resume and Initial Screening (45 mins)
+**Interviewer:** Technical Recruiter or Hiring Manager
+
 - Infrastructure experience
 - Cloud platform knowledge
 - Automation experience
-- Problem-solving approach
 
-### 2. Technical Assessment (90 mins)
-- Infrastructure design
-- CI/CD pipeline design
-- Troubleshooting scenarios
-- Security considerations
+### 2. Coding Assessment (60 mins)
+**Interviewer:** An engineer with equivalent DevOps expertise or a similar professional level as the candidate
 
-### 3. Team Interview (60 mins)
-- Team collaboration
-- Technical communication
-- Project management
-- Cross-functional work
+- Infrastructure as Code (Terraform/CloudFormation)
+- Scripting challenges (Python/Bash)
 
-### 4. System Design (60 mins)
+**Evaluation Areas:**  
+- Problem-solving and coding best practices  
+- Code readability and maintainability  
+- Approach to automation and reliability
+
+### 3. System Design (60 mins)
+**Interviewer:** Hiring Manager
+
 - Scalability design
 - High availability
 - Disaster recovery
 - Performance optimization
+- Security considerations
+
+### 4. Team & Culture Fit (60 mins)
+**Interviewer:** Any Manager or HR
+
+- Team collaboration
+- Technical communication
+- Project management
+- Cross-functional work
+- Cultural alignment
 
 ## Evaluation Criteria
 
